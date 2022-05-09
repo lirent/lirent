@@ -4,10 +4,10 @@ I am passionate about computer programming and technology and currently working 
 
 **👀 Outside of work I enjoy**
 
-Mountain Bike and Running another of my passions.\
+I Love to go Mountain Bike riding. and Running.\
 Stay passionate and informed about the latest technology.\
 Reading self development books.\
-Good food, good wine and pecorino (loop). 
+Cooking had always been another of my passion
 <p>&nbsp;</p>  
 
 **🌱 I’m currently learning**
