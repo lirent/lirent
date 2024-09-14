@@ -1,24 +1,34 @@
 # 👋 Hi, I’m Lirent!
-I am passionate about computer programming and technology and currently working as a Java developer. My main responsibility is to assist with the full development life cycle of various application in banking sector. 
+I am a passionate software engineer with expertise in developing robust applications across various domains. My experience spans the full software development lifecycle, from initial design to deployment and maintenance.
 <p>&nbsp;</p>  
 
-**👀 Outside of work I enjoy**
-
-I Love to go Mountain Bike riding. and Running.\
-Stay passionate and informed about the latest technology.\
-Reading self development books.\
-Cooking had always been another of my passion
+## 💻 Technical Skills
+- Languages/Frameworks: *Java, Spring Boot/Data/Security/Cloud, Hibernate, JPA, SQL, JavaScript* \
+- Industry Knowledge: *Clean Code, SOLID Principles, DDD/OOD, Unit & IT Tests, RESTful API’s, Kafka, React, Angular* \
+- Databases: *Oracle, MongoDB, PostgreSQL, MySQL, H2, Redis, Cassandra, AWS RDS* \
+- Miscellaneous: *AWS & Azure Cloud, Kubernetes, OpenShift, Docker, Maven, Jenkins, Git, Helm, Kibana* \
+- Soft Skills: *Adaptability, Attention to detail, Communication, Problem‐solving, Teamwork, Time Management*
 <p>&nbsp;</p>  
 
-**🌱 I’m currently learning**
-
-I have always been interested in front-end dvelopment. Currently learning React and Angular more in depth.
-
+## **🌱 I’m currently learning**
+- Exploring software architecture principles and patterns to design more scalable and maintainable systems \
+- To expand my skill set, I'm delving deeper into front-end development, with a focus on React and Angular frameworks
 <p>&nbsp;</p>  
 
-**📫 How to reach me**
 
-⛓ https://www.linkedin.com/in/lirent/
+## **👀 Outside of work I enjoy**
+Mountain biking and running to stay active \
+Keeping up with the latest technology trends \
+Reading self-development books \
+Exploring my culinary passion through cooking
+<p>&nbsp;</p>  
+
+
+### **📫 How to reach me**
+⛓ https://www.linkedin.com/in/lirent
+
+### ✍️ Blog & Writing
+⛓ https://www.lirent.net
 
 
 <!---
